@@ -1,2 +1,2 @@
-# kaggle-learning-log
+# learning-log
 My learning progress on Machine Learning
